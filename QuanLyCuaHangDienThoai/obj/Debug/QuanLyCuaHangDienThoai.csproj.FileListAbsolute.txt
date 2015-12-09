@@ -26,3 +26,6 @@ C:\Users\trantien\Desktop\Giaodien\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHan
 C:\Users\trantien\Desktop\GiaoDien_Ver3\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe.config
 C:\Users\trantien\Desktop\GiaoDien_Ver3\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.exe
 C:\Users\trantien\Desktop\GiaoDien_Ver3\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.pdb
+D:\LTWIN\GiaoDien_Ver3\QuanLyCuaHangDienThoai\bin\Debug\QuanLyCuaHangDienThoai.exe.config
+D:\LTWIN\GiaoDien_Ver3\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.exe
+D:\LTWIN\GiaoDien_Ver3\QuanLyCuaHangDienThoai\obj\Debug\QuanLyCuaHangDienThoai.pdb
